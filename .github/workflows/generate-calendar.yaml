@@ -1,0 +1,40 @@
+# .github/workflows/generate-calendar.yml
+name: Generate Calendar
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
+  workflow_dispatch:      # Allows manual trigger from GitHub UI
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Generate calendar
+        run: |
+          bun run generate-calendar.js
+          
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --exit-code kindergarten_calendar.ics || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add kindergarten_calendar.ics
+          git commit -m "Update calendar (automated)"
+          git push

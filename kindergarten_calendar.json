@@ -1,0 +1,402 @@
+{
+    "calendar_info": {
+        "name": "Termine Idsteiner Waldorfkindergarten 2025",
+        "description": "Kompletter Kalender des Idsteiner Waldorfkindergarten",
+        "timezone": "Europe/Berlin",
+        "refresh_interval": "P1D"
+    },
+    "events": [
+        {
+            "name": "Weihnachtsferien",
+            "start": "2025-01-03",
+            "end": "2025-01-03",
+            "description": "Kindergarten geschlossen",
+            "type": "closure",
+            "category": "holiday"
+        },
+        {
+            "name": "Vorstandssitzung",
+            "start": "2025-01-13T19:00:00",
+            "end": "2025-01-13T21:00:00",
+            "description": "Vorstandssitzung",
+            "type": "meeting",
+            "category": "board"
+        },
+        {
+            "name": "Vorstandssitzung",
+            "start": "2025-02-03T19:00:00",
+            "end": "2025-02-03T21:00:00",
+            "description": "Vorstandssitzung",
+            "type": "meeting",
+            "category": "board"
+        },
+        {
+            "name": "Faschingsfeier",
+            "start": "2025-03-03",
+            "end": "2025-03-03",
+            "description": "Faschingsfeier ohne Eltern",
+            "type": "event",
+            "category": "celebration"
+        },
+        {
+            "name": "Vorstandssitzung",
+            "start": "2025-03-10T19:00:00",
+            "end": "2025-03-10T21:00:00",
+            "description": "Vorstandssitzung",
+            "type": "meeting",
+            "category": "board"
+        },
+        {
+            "name": "Vorstandssitzung",
+            "start": "2025-04-07T19:00:00",
+            "end": "2025-04-07T21:00:00",
+            "description": "Vorstandssitzung",
+            "type": "meeting",
+            "category": "board"
+        },
+        {
+            "name": "Ferienbetreuung",
+            "start": "2025-04-07",
+            "end": "2025-04-16",
+            "description": "Ferienbetreuung (verbindliche Anmeldung notwendig)",
+            "type": "holiday_care",
+            "category": "care"
+        },
+        {
+            "name": "Konzeptionstag",
+            "start": "2025-04-17",
+            "end": "2025-04-17",
+            "description": "Kindergarten geschlossen",
+            "type": "closure",
+            "category": "planning"
+        },
+        {
+            "name": "Karfreitag",
+            "start": "2025-04-18",
+            "end": "2025-04-18",
+            "description": "Kindergarten geschlossen - Feiertag",
+            "type": "closure",
+            "category": "holiday"
+        },
+        {
+            "name": "Ostermontag",
+            "start": "2025-04-21",
+            "end": "2025-04-21",
+            "description": "Kindergarten geschlossen - Feiertag",
+            "type": "closure",
+            "category": "holiday"
+        },
+        {
+            "name": "Maifeiertag",
+            "start": "2025-05-01",
+            "end": "2025-05-01",
+            "description": "Kindergarten geschlossen - Feiertag",
+            "type": "closure",
+            "category": "holiday"
+        },
+        {
+            "name": "Brückentag (Betriebsausflug)",
+            "start": "2025-05-02",
+            "end": "2025-05-02",
+            "description": "Kindergarten geschlossen wg. Betriebsausflug",
+            "type": "closure",
+            "category": "bridgeday"
+        },
+        {
+            "name": "Vorstandssitzung",
+            "start": "2025-05-05T19:00:00",
+            "end": "2025-05-05T21:00:00",
+            "description": "Vorstandssitzung",
+            "type": "meeting",
+            "category": "board"
+        },
+        {
+            "name": "Mitgliederversammlung",
+            "start": "2025-05-14T20:00:00",
+            "end": "2025-05-14T22:00:00",
+            "description": "Mitgliederversammlung",
+            "type": "meeting",
+            "category": "members"
+        },
+        {
+            "name": "Christi Himmelfahrt",
+            "start": "2025-05-29",
+            "end": "2025-05-29",
+            "description": "Kindergarten geschlossen - Feiertag",
+            "type": "closure",
+            "category": "holiday"
+        },
+        {
+            "name": "Brückentag",
+            "start": "2025-05-30",
+            "end": "2025-05-30",
+            "description": "Kindergarten geschlossen",
+            "type": "closure",
+            "category": "bridgeday"
+        },
+        {
+            "name": "Vorstandssitzung",
+            "start": "2025-06-02T19:00:00",
+            "end": "2025-06-02T21:00:00",
+            "description": "Vorstandssitzung",
+            "type": "meeting",
+            "category": "board"
+        },
+        {
+            "name": "Konzeptionstag",
+            "start": "2025-06-06",
+            "end": "2025-06-06",
+            "description": "Konzeptionstag",
+            "type": "event",
+            "category": "planning"
+        },
+        {
+            "name": "Pfingstmontag",
+            "start": "2025-06-09",
+            "end": "2025-06-09",
+            "description": "Kindergarten geschlossen - Feiertag",
+            "type": "closure",
+            "category": "holiday"
+        },
+        {
+            "name": "Fronleichnam",
+            "start": "2025-06-19",
+            "end": "2025-06-19",
+            "description": "Kindergarten geschlossen - Feiertag",
+            "type": "closure",
+            "category": "holiday"
+        },
+        {
+            "name": "Brückentag",
+            "start": "2025-06-20",
+            "end": "2025-06-20",
+            "description": "Kindergarten geschlossen",
+            "type": "closure",
+            "category": "bridgeday"
+        },
+        {
+            "name": "Johannifest",
+            "start": "2025-06-27T15:30:00",
+            "end": "2025-06-27T18:00:00",
+            "description": "Johannifest mit Eltern",
+            "type": "event",
+            "category": "celebration"
+        },
+        {
+            "name": "Vorstandssitzung",
+            "start": "2025-06-30T19:00:00",
+            "end": "2025-06-30T21:00:00",
+            "description": "Vorstandssitzung",
+            "type": "meeting",
+            "category": "board"
+        },
+        {
+            "name": "Schulkindverabschiedung",
+            "start": "2025-07-04T14:00:00",
+            "end": "2025-07-04T16:00:00",
+            "description": "Schulkindverabschiedung",
+            "type": "event",
+            "category": "celebration"
+        },
+        {
+            "name": "Waldwoche",
+            "start": "2025-07-07",
+            "end": "2025-07-11",
+            "description": "Waldwoche",
+            "type": "event",
+            "category": "activity"
+        },
+        {
+            "name": "Gruppenräume ausräumen",
+            "start": "2025-07-11T12:00:00",
+            "end": "2025-07-11T23:59:00",
+            "description": "Kindergarten ab 12:00 Uhr geschlossen, Wiegenstube kein Mittagessen",
+            "type": "closure",
+            "category": "early_closure"
+        },
+        {
+            "name": "Sommerferien",
+            "start": "2025-07-14",
+            "end": "2025-08-01",
+            "description": "Kindergarten geschlossen",
+            "type": "closure",
+            "category": "holiday"
+        },
+        {
+            "name": "Gruppenräume einräumen",
+            "start": "2025-08-01",
+            "end": "2025-08-01",
+            "description": "Gruppenräume einräumen",
+            "type": "event",
+            "category": "organization"
+        },
+        {
+            "name": "Vorstandssitzung",
+            "start": "2025-08-18T19:00:00",
+            "end": "2025-08-18T21:00:00",
+            "description": "Vorstandssitzung",
+            "type": "meeting",
+            "category": "board"
+        },
+        {
+            "name": "Elternabend Spatzennest",
+            "start": "2025-09-02T19:00:00",
+            "end": "2025-09-02T21:00:00",
+            "description": "Elternabend Spatzennest",
+            "type": "meeting",
+            "category": "parents"
+        },
+        {
+            "name": "Elternabend Lerchennest",
+            "start": "2025-09-03T19:00:00",
+            "end": "2025-09-03T21:00:00",
+            "description": "Elternabend Lerchennest",
+            "type": "meeting",
+            "category": "parents"
+        },
+        {
+            "name": "Elternabend Wiegenstube",
+            "start": "2025-09-04T19:00:00",
+            "end": "2025-09-04T21:00:00",
+            "description": "Elternabend Wiegenstube",
+            "type": "meeting",
+            "category": "parents"
+        },
+        {
+            "name": "Vorstandssitzung",
+            "start": "2025-09-08T19:00:00",
+            "end": "2025-09-08T21:00:00",
+            "description": "Vorstandssitzung",
+            "type": "meeting",
+            "category": "board"
+        },
+        {
+            "name": "Michaelifeier",
+            "start": "2025-09-26T11:00:00",
+            "end": "2025-09-26T13:00:00",
+            "description": "Michaelifeier mit Eltern",
+            "type": "event",
+            "category": "celebration"
+        },
+        {
+            "name": "Tag der deutschen Einheit",
+            "start": "2025-10-03",
+            "end": "2025-10-03",
+            "description": "Kindergarten geschlossen - Feiertag",
+            "type": "closure",
+            "category": "holiday"
+        },
+        {
+            "name": "Herbstferien",
+            "start": "2025-10-06",
+            "end": "2025-10-10",
+            "description": "Kindergarten geschlossen",
+            "type": "closure",
+            "category": "holiday"
+        },
+        {
+            "name": "Ferienbetreuung",
+            "start": "2025-10-13",
+            "end": "2025-10-17",
+            "description": "Ferienbetreuung (verbindliche Anmeldung notwendig)",
+            "type": "holiday_care",
+            "category": "care"
+        },
+        {
+            "name": "Vorstandssitzung",
+            "start": "2025-10-13T19:00:00",
+            "end": "2025-10-13T21:00:00",
+            "description": "Vorstandssitzung",
+            "type": "meeting",
+            "category": "board"
+        },
+        {
+            "name": "Erntedankfest",
+            "start": "2025-10-16",
+            "end": "2025-10-16",
+            "description": "Erntedankfest",
+            "type": "event",
+            "category": "celebration"
+        },
+        {
+            "name": "Gesamtelternabend Laternenbasteln",
+            "start": "2025-11-04T19:00:00",
+            "end": "2025-11-04T21:00:00",
+            "description": "Gesamtelternabend Laternenbasteln",
+            "type": "meeting",
+            "category": "parents"
+        },
+        {
+            "name": "Vorstandssitzung",
+            "start": "2025-11-10T19:00:00",
+            "end": "2025-11-10T21:00:00",
+            "description": "Vorstandssitzung",
+            "type": "meeting",
+            "category": "board"
+        },
+        {
+            "name": "Laternenfest",
+            "start": "2025-11-14T12:00:00",
+            "end": "2025-11-14T23:59:00",
+            "description": "Laternenfest ab 17:00 Uhr (Kindergarten ab 12:00 Uhr geschlossen, Wiegenstube kein Mittagessen)",
+            "type": "closure",
+            "category": "early_closure"
+        },
+        {
+            "name": "Adventsgärtlein Lerchennest",
+            "start": "2025-11-28T17:00:00",
+            "end": "2025-11-28T18:00:00",
+            "description": "Adventsgärtlein für die Kinder des Lerchennests",
+            "type": "event",
+            "category": "celebration"
+        },
+        {
+            "name": "Adventsgärtlein Spatzennest",
+            "start": "2025-11-28T18:00:00",
+            "end": "2025-11-28T19:00:00",
+            "description": "Adventsgärtlein für die Kinder des Spatzennests",
+            "type": "event",
+            "category": "celebration"
+        },
+        {
+            "name": "Frühere Schließung - Adventsgärtlein",
+            "start": "2025-11-28T12:00:00",
+            "end": "2025-11-28T23:59:00",
+            "description": "Kindergartengruppen ab 12:00 Uhr geschlossen",
+            "type": "closure",
+            "category": "early_closure"
+        },
+        {
+            "name": "Weihnachtsmarkt Idstein",
+            "start": "2025-11-28",
+            "end": "2025-11-30",
+            "description": "Weihnachtsmarkt Idstein?",
+            "type": "event",
+            "category": "external_event"
+        },
+        {
+            "name": "Nikolausfeier",
+            "start": "2025-12-05",
+            "end": "2025-12-05",
+            "description": "Nikolausfeier in allen Gruppen",
+            "type": "event",
+            "category": "celebration"
+        },
+        {
+            "name": "Weihnachtsfeier Personal und Vorstand",
+            "start": "2025-12-12",
+            "end": "2025-12-12",
+            "description": "Weihnachtsfeier Personal und Vorstand",
+            "type": "event",
+            "category": "internal_celebration"
+        },
+        {
+            "name": "Weihnachtsferien",
+            "start": "2025-12-22",
+            "end": "2026-01-02",
+            "description": "Kindergarten geschlossen",
+            "type": "closure",
+            "category": "holiday"
+        }
+    ]
+}
